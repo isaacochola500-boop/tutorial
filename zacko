@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My future Zack Tech company</title>
+    <link rel="stylesheet"href="style.css">
+</head>
+<body>
+    <hr>
+    <body bgcolor="black"text="white"></body>
+    <header style="background-color:rgb(161, 82, 82);">
+        <h2>welcome to zack code</h2>
+        <a href="">home</a>
+        <br>
+        <a href="">about us</a>
+        <br>
+        <a href="">products</a>
+        <br>
+        <a href="">contact us</a>
+        <br>
+        
+        <hr>
+    </header>
+    <main>
+        <h3>This is my website page</h3>
+        <img src="Picture5.jpg" alt="Picture5.jpg">
+    </main>
+    <p>I am a web developer
+        i train students on how to creat a very appealing websites
+        <br>
+        secondly i am a skilled graphic designer
+        <br>
+        my company equips students with skills and improved technical skills
+        <br>
+        welcome to my company we learn toether.
+        <br>
+    </p>
+    <footer style="background-color: blue;">
+        <hr>
+        author:zack code <br>
+        &copy;coppyright reserved <br>
+       <small> <a href="zackokimbo@gmail.com">zack code@zack.com</a></small>
+       
+    </footer>
+    <hr>
+    
+
+</body>
+</html>
+        
